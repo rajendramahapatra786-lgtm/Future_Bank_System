@@ -104,20 +104,6 @@ It is intended for learning and front-end practice only.
 
 Developed by **Rajendra**
 
----
 
-## 🌟 Future Improvements
 
-* PIN authentication
-* Transfer between accounts
-* Dark/Light theme toggle
-* Backend database integration
-* Mobile app version
 
----
-
-## 📜 License
-
-This project is free to use for educational purposes.
-
----
