@@ -104,6 +104,9 @@ It is intended for learning and front-end practice only.
 
 Developed by **Rajendra**
 
+---
+## ⭐ Support
 
+**If you found this project useful, consider giving the repository a star!**
 
 
